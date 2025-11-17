@@ -1,19 +1,19 @@
-<h1 align="center">Yeah it's KashCode</h1>
+<h1 align="center">Yeah it's RepoDev Lab</h1>
 <h3 align="center">A passionate android developer from Ak</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=repodev-lab&label=Profile%20views&color=0e75b6&style=flat" alt="repodev-lab" /> </p>
 
-- 🔭 I’m currently working on **Notging**
+- 🔭 I’m currently working on **YOU**
 
-- 🌱 I’m currently learning **You**
+- 🌱 I’m currently learning **YOU**
 
-- 💬 Ask me about **Game development, android development**
+- 💬 Ask me about **Game development, android development and YOU**
 
 - 📫 How to reach me **NOOB@gmail.cam**
 
 - ⚡ Fun fact **I am not exciting in planet earth 🌍 **
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Don' Connect with me:</h3>
 <p align="left">
 <a href="https://hackertyper.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Noobo" height="30" width="40" /></a>
 <a href="https://www.msvu.ca/campus-life/campus-services/it-services/it-security/phishing/phishing-login-form-examples/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Noobio" height="30" width="40" /></a>
