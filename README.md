@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **YOU**
 
-- 💬 Ask me about **Game development, android development and YOU**
+- 💬 Ask me about YOU**
 
-- 📫 How to reach me **NOOB@gmail.cam**
+- 📫 How to reach me **YOUNOOB@gmail.cam**
 
-- ⚡ Fun fact **I am not exciting in planet earth 🌍 **
+- ⚡ Fun fact **I am not exciting in planet earth I am leavleaving in YOU🌍 **
 
-<h3 align="left">Don' Connect with me:</h3>
+<h3 align="left">Don't Connect with YOU:</h3>
 <p align="left">
 <a href="https://hackertyper.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Noobo" height="30" width="40" /></a>
 <a href="https://www.msvu.ca/campus-life/campus-services/it-services/it-security/phishing/phishing-login-form-examples/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Noobio" height="30" width="40" /></a>
